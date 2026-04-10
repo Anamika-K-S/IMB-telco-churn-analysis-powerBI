@@ -23,6 +23,9 @@ Commonly used for analytics, BI dashboards, and ML models
 
 Alternative Source: Kaggle (IBM Telco Churn Dataset)
 
+---
+
+
 ##  Business Problem
 
 The company is experiencing significant customer churn, leading to revenue loss and reduced customer lifetime value. However, the drivers behind churn are unclear.
@@ -85,7 +88,7 @@ The Power BI report is divided into multiple analytical views:
 
 ##  Dashboard Preview
 
-![Overview](images/Historical_churn_analysis_Overview.jpeg)
+![Overview](Images/Historical_churn_analysis_Overview.jpeg)
 
 ---
 
